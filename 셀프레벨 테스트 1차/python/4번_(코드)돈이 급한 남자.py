@@ -6,3 +6,4 @@ for i in range(N-1):
     if arr[i][0] != arr[i+1][0]:
         point += arr[i][1]
 print(point)
+#알고리즘 : 정렬,구현
