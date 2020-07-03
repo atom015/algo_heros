@@ -24,4 +24,4 @@ for i in range(m):
     a,b = map(int,ip().split())
     s = Sum(b)-Sum(a-1)
     print("+"+str(s) if s > 0 else s)
-#알고리즘 : 펜윅트리
+#알고리즘:펜윅트리
